@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie Browser</string>
+    <string name="search_btn_content">Click to Search</string>
+    <string name="search">Search</string>
+    <string name="addToFav">Add To Favourites</string>
+    <string name="releaseDate">Released:</string>
+    <string name="nothing_to_display">Nothing to Display</string>
+    <string name="back_button">Back Button</string>
+    <string name="removeFav">Remove from Favourites</string>
+    <string name="year_validation_full">Please enter a valid year</string>
+    <string name="invalid_year">Invalid Year</string>
+    <string name="filters">Filters</string>
+    <string name="sort_by">Sort By</string>
+    <string name="minimum_rating">Minimum Rating: %1$d</string>
+    <string name="release_year">Release Year</string>
+    <string name="reset">Reset</string>
+    <string name="apply">Apply</string>
+    <string name="release_date">Release Date: %1$s</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="you_re_offline">You\'re Offline</string>
+    <string name="press_back_again_to_exit">Press back again to exit</string>
+</resources>
