@@ -44,10 +44,7 @@ Repository falls back to local data if network fails
 
 API Configuration
 This project uses TMDB Bearer Token authentication.
-Add the following in gradle.properties:
-BASE_URL=...
-IMAGE_URL=...
-TMDB_TOKEN=...
+
 
 The token is injected via BuildConfig and added through an OkHttp interceptor.
 
